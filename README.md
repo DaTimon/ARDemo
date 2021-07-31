@@ -1,4 +1,5 @@
 # WebARDemo
 ### 1.WebAR Demo based on AR.js development
 ### 2.ARcode in the PDF folder   
-https://datimon.github.io/ARDemo/  
+https://datimon.github.io/ARDemo/basic.html  
+
