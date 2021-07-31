@@ -17,7 +17,7 @@
  
 	<div id="Stats-output">
 	</div>
-	<h2><p><font color="white">Hey!! Welcome to DaTimon's AR_Demo</font></p></h2> 
+	<h2><p><font color="blue">Hey!! Welcome to DaTimon's AR_Demo</font></p></h2> 
 	<!--
 	<a href="https://github.com/jeromeetienne/AR.js/" target="_blank">AR.js</a> - three.js camera transform
 	<br/>
@@ -200,7 +200,7 @@
                 obj=object;
                 scene.add( object );
                 object.position.set(0,0,0);
-                object.scale.set(0.001,0.001,0.001);
+                object.scale.set(0.0001,0.0001,0.0001);
                 var axes=new THREE.AxisHelper(10);
                 scene.add(axes);
             }, onProgress, onError );
